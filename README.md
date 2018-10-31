@@ -1,5 +1,5 @@
 # nodejs-express
-Full CURD functionality Project in Node.js(Express Framework)
+Full CRUD functionality Project in Node.js(Express Framework)
 
 *******************
 Technologies
